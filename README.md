@@ -208,7 +208,7 @@
 <td align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tacticalyash&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoeb-siddiqui&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 
 </td>
