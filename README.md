@@ -235,4 +235,4 @@
   
 </div>
 
-### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/tacticalyash/tacticalyash/) !
+### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/shoeb-siddiqui/shoeb-siddiqui/) !
