@@ -65,8 +65,7 @@
       </tr>
     </thead>
     <tr>
-    
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
+
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
@@ -75,8 +74,7 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Python</td>
-      <td align="center" width=110>JavaScript</td>
+     
       <td align="center" width=110>Cpp</td>
       <td align="center" width=110>Java</td>
       <td align="center" width=110>Typescript</td>
