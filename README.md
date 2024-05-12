@@ -96,15 +96,11 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"" </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/> </td>
       <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></td>
       <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
       <tr align="center"> 
-        <td align="center" width=110>ReactJS</td>
         <td align="center" width=110>QT Creator</td>
-        <td align="center" width=110>ElectronJS</td>
         <td align="center" width=110>Tensorflow</td>
         <td align="center" width=110>T.D.D.</td>
       </tr>
