@@ -187,7 +187,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacticalyash &show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacticalyash &theme=highcontrast&layout=compact" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoe-siddiqui &theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
