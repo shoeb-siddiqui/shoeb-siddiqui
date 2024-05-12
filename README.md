@@ -184,26 +184,26 @@
 <tr>
 <td>
 <a href="https://github.com/shoeb-siddiqui/shoeb-siddiqui">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacticalyash &show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoeb-siddiqui &show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoe-siddiqui &theme=highcontrast&layout=compact" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeb-siddiqui &theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
 
 <tr>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tacticalyash"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoeb-siddiqui"/>
 </td>
 <td>
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tacticalyash"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoeb-siddiqui"/>
 </td>
 </tr>
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20siciliancpp@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20Siddiquishoeb7000@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
 
@@ -223,7 +223,7 @@
 ### The Pace:
 
 <div>  
-<img src="https://github-profile-trophy.vercel.app/?username=tacticalyash&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=shoeb-siddiqui&margin-w=15&margin-h=15" />
 
 </div>
 <div align="right">
