@@ -28,7 +28,10 @@
 <a href="https://www.hackerrank.com/siddiquishoeb701"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 
 
-<a href="https://https://drive.google.com/file/d/1KOaycY6_4f7q_emfefsnZ-VYkF6gLZxd/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1KOaycY6_4f7q_emfefsnZ-VYkF6gLZxd/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Résumé" />
+</a>&nbsp;
+
 </p><br>
 
 <!-- BADGES -->
